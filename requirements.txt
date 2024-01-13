@@ -7,3 +7,6 @@ scipy
 statsmodels
 scikit-learn
 xgboost
+pandas_profiling
+pydantic-settings
+ydata_profiling
